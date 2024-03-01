@@ -1,5 +1,11 @@
 # Asp33ct
 
+**'Full Stack Developer'**
+
+My name is David and am 18, im a full stack developer. My focus is on the user experince and also game developemnt. 
+
+#
+
 
 <!--
 **Asp33ct/Asp33ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
