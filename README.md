@@ -1,6 +1,6 @@
 # Asp33ct
 
-**'Full Stack Developer'**
+**`Full Stack Developer`**
 
 My name is David and am 18, im a full stack developer. My focus is on the user experince and also game developemnt. 
 
