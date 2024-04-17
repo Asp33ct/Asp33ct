@@ -32,7 +32,6 @@ My name is David and am 18, im a full stack game developer. My focus is on the u
 
 #
 
-![Asp33ct's GitHub stats](https://github-readme-stats.vercel.app/api?username=asp33ct&show_icons=true&theme=algolia)
 
 <!--
 **Asp33ct/Asp33ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
