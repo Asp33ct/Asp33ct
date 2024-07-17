@@ -2,7 +2,7 @@
 
 **`Game Developer`**
 
-My name is David and am 18, im a full stack game developer. My focus is on the user experince and also game developemnt. 
+My name is David and am 18, im a game developer. My focus is on the user experince. 
 
 #
 
