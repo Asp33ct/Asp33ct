@@ -2,7 +2,7 @@
 
 **`Game Developer`**
 
-My name is David and am 18, im a game developer. My focus is on the user experince. 
+My name is David and am 19, im a game developer. Just some random dude that enjoys programming. 
 
 #
 
